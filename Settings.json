@@ -1,0 +1,36 @@
+{
+    "rgb_r" : 0,
+    "rgb_g" : 0,
+    "rgb_b" : 0,
+    "canvas_line_width" : 3,
+    "continuous" : true,
+    "hotkey_delete" : [
+        "ctrl_l",
+        "shift",
+        "backspace"
+    ],
+    "hotkey_erase_all" : [
+        "backspace",
+        "alt_l"
+    ],
+    "hotkey_canvas_pause" : [
+        "shift",
+        "ctrl_l"
+    ],
+    "hotkey_clear_hotkey" : [
+        "ctrl_l",
+        "backspace"
+    ],
+    "hotkey_open_popup" : [
+        "ctrl_l",
+        "\\x10"
+    ],
+    "hotkey_close_popup" : [
+        "ctrl_l",
+        "\\x0f"
+    ],
+    "hotkey_eraser_mode" : [
+        "alt_l",
+        "shift"
+    ]
+}
