@@ -23,6 +23,9 @@ The hotkey config can be found under Action -> hotkey config
 ### 4 Object List.
 You can delete objects you've created under Action -> Objects. When you click on one of the object inside the listbox, the according object will be highlighted, you can press enter to delete clicked objects.
 
+### Note:
+Can be compiled into exe with pyinstaller to make it more convenient to run. 
+
 ## What's next for digital drawboard
 
 1. Make the GUI look better
